@@ -1,0 +1,34 @@
+buildscript {
+    apply from: 'version.gradle'
+    dependencies {
+        classpath group: 'de.dynamicfiles.projects.gradle.plugins', name: 'javafx-gradle-plugin', version: "${gradle.javafxGradlePluginVersion}"
+
+    }
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+
+    }
+}
+apply plugin: 'java'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+apply plugin: 'javafx-gradle-plugin'
+
+
+jfx {
+    mainClass = 'helloworld.MainClass'
+    vendor = 'YourName'
+    appName = 'moreSimpleAppName'
+}
+
+dependencies{
+    compile 'com.jfoenix:jfoenix:9.0.6'
+//    compile 'org.kordamp.bootstrapfx:bootstrapfx-core:0.2.4'
+}

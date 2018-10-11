@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="JavaFX-HelloWorld-Gradle_main" target="1.10" />
+      <module name="JavaFX-HelloWorld-Gradle_test" target="1.10" />
+      <module name="simpler-application-name_main" target="1.10" />
+      <module name="simpler-application-name_test" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
