@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-HelloWorld-Gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-HelloWorld-Gradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-HelloWorld-Gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-HelloWorld-Gradle_main.iml" group="JavaFX-HelloWorld-Gradle" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-HelloWorld-Gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-HelloWorld-Gradle_test.iml" group="JavaFX-HelloWorld-Gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-Hello_World-Gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-Hello_World-Gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-Hello_World-Gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-Hello_World-Gradle_main.iml" group="JavaFX-Hello_World-Gradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFX-Hello_World-Gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFX-Hello_World-Gradle_test.iml" group="JavaFX-Hello_World-Gradle" />
       <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
